@@ -24,7 +24,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é Maicon Robert. Atualmente tenh
 ![Python 3](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=black&labelColor=white&color=white)
 
 ## 📚⏳ Tecnologias que eu já estudei 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -37,12 +37,26 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é Maicon Robert. Atualmente tenh
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=red&color=red)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE&labelColor=white&color=white)
 
+## Minha atividade
+![Maicon15rp github activity graph](https://activity-graph.herokuapp.com/graph?username=maicon15rp&theme=github-dark)
 
+## Meus Projetos
+#### :computer: Music and Lyric Automatic Download
+> Uma ferramenta em python para download de músicas de forma automatizada. <br>
+> `audio` `python` `music` `api` `json` `automation` `video` `ffmpeg` `lyrics` `lib` `requests` `flac`
 
+#### :books: Redif
+> Plataforma de compartilhamento e avaliação de redações. <br>
+> `fullstack` `python` `django` `html5` `css3` `javascript` `bootstrap` `sass` `text` `share`
 
+#### 🦾 Desafio 21 Dias
+> Uma série de desafios diários de programação, envolvendo html5, css3, javascript, python... <br>
+> `fullstack` `python` `django` `html5` `css3` `javascript` `bootstrap` `sass` `text` `share`
 
 
 <!--
@@ -50,7 +64,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é Maicon Robert. Atualmente tenh
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maicon15rp&repo=music-lyric-download)](https://github.com/maicon15rp/maicon15rp)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maicon15rp&layout=compact)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maicon15rp&theme=dark)](https://git.io/streak-stats)
 
