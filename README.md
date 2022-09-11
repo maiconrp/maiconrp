@@ -9,7 +9,13 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é Maicon Robert. Atualmente tenh
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻 Projetos Frontend
 
-# 
+## 🎯 Metas
+📌 Me tornar um Desenvolvedor Web
+
+📌 Ensinar Programação
+
+📌 Desenvolver sonhos, não sites
+
 ## 📚🦾 Tecnologias que estou estudando no momento 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +57,16 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é Maicon Robert. Atualmente tenh
 > Uma série de desafios diários de programação, envolvendo html5, css3, javascript, python... <br>
 > `fullstack` `python` `html5` `css3` `javascript`
 
-## 🎯 Metas
+## :memo: Projetos que pretendo Desenvolver 
+#### Site de Relatórios para igrejas
+> Atualmente são feitos mais de 10 relatórios mensais em uma igreja, na qual todos são feitos no papel. Unificá-los em uma plataforma online não só traria organização, como também mais velocidade, poupando tempo e permitiria uma análise dos dados mais eficiente
+**Possiveis ferramentas:** `python3` `django` `html5` `css3` `javascript` `bootstrap` `sass` `sqlite`
+
+#### Guia do Campus
+> Todo ano o Instituto Federal Baiano recebe alunos novos, entretanto, não há nenhumtipo de guia eficiente para os novos alunos, sendo assim, estes ficam pertidos em relação à salas, plataformas, horários e funcionamento do campus. Este projeto viria com o intuito de sanar isso
+**Possiveis ferramentas:** `python3` `django` `html5` `css3` `javascript` `bootstrap` `sass` `sqlite`
+
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicon15rp&theme=dark)
 
