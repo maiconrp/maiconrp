@@ -1,5 +1,5 @@
 ## 👩‍💻 Quem sou eu 👩‍💻
-Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é Maicon Robert. Atualmente tenho 17 anos e estou cursando Informática para Internet no [Instituto Federal Baiano](). Além disso, estudo Design, Música e Automação. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e, claro, Ela💘
+Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente tenho 17 anos e estou cursando Informática para Internet no [Instituto Federal Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo Design, Música e Automação. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘
 
 ## 🗂️ O que você verá por aqui🗂️
 
@@ -66,7 +66,12 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é Maicon Robert. Atualmente tenh
 > Todo ano o Instituto Federal Baiano recebe alunos novos, entretanto, não há nenhumtipo de guia eficiente para os novos alunos, sendo assim, estes ficam pertidos em relação à salas, plataformas, horários e funcionamento do campus. Este projeto viria com o intuito de sanar isso
 **Possiveis ferramentas:** `python3` `django` `html5` `css3` `javascript` `bootstrap` `sass` `sqlite`
 
+## 🔎 Onde me encontrar
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiconlk2321@gmail.com)
+[![Instagram](https://img.shields.io/badge/maiconroberp-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maiconrobertp/)
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicon15rp&theme=dark)
 
