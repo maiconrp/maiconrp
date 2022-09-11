@@ -59,19 +59,21 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 
 ## :memo: Projetos que pretendo Desenvolver 
 #### Site de Relatórios para igrejas
-> Atualmente são feitos mais de 10 relatórios mensais em uma igreja, na qual todos são feitos no papel. Unificá-los em uma plataforma online não só traria organização, como também mais velocidade, poupando tempo e permitiria uma análise dos dados mais eficiente
+> Atualmente são feitos mais de 10 relatórios mensais em uma igreja, na qual todos são feitos no papel. Unificá-los em uma plataforma online não só traria organização, como também mais velocidade, poupando tempo e permitiria uma análise dos dados mais eficiente<br>
 **Possiveis ferramentas:** `python3` `django` `html5` `css3` `javascript` `bootstrap` `sass` `sqlite`
 
 #### Guia do Campus
-> Todo ano o Instituto Federal Baiano recebe alunos novos, entretanto, não há nenhumtipo de guia eficiente para os novos alunos, sendo assim, estes ficam pertidos em relação à salas, plataformas, horários e funcionamento do campus. Este projeto viria com o intuito de sanar isso
+> Todo ano o Instituto Federal Baiano recebe alunos novos, entretanto, não há nenhumtipo de guia eficiente para os novos alunos, sendo assim, estes ficam pertidos em relação à salas, plataformas, horários e funcionamento do campus. Este projeto viria com o intuito de sanar isso<br>
 **Possiveis ferramentas:** `python3` `django` `html5` `css3` `javascript` `bootstrap` `sass` `sqlite`
 
 ## 🔎 Onde me encontrar
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiconlk2321@gmail.com)
 [![Instagram](https://img.shields.io/badge/maiconroberp-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maiconrobertp/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/670372491771904012)
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicon15rp&theme=dark)
 
