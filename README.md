@@ -25,6 +25,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 <img alt=sparkles-icon src=https://user-images.githubusercontent.com/60708311/189714076-4ace66df-e95b-4eae-a380-75448f842123.svg width=12/> - Criar um site para a igreja
 
 ## <img alt=book-icon src=https://user-images.githubusercontent.com/60708311/189717216-5675e804-ffa7-47d3-bad4-3ca26eb06f4e.svg width=17/> - Tecnologias que estou estudando
+[
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
@@ -32,15 +33,18 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
-
+](#n)
 ## <img alt=bookmark-icon src=https://user-images.githubusercontent.com/60708311/189718010-4971f595-f74c-40b3-a266-bdbf643b3fd5.svg width=17/> - Tecnologias que já estudei
 
+[
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1F6FEB&color=1F6FEB&labelColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
+](#n)
 
 ## <img alt=toolbox-icon src=https://user-images.githubusercontent.com/60708311/189714700-1b82520c-3a86-463c-a282-4de87e196e81.svg width=17/> - Ferramentas que utilizo atualmente
+[
 ![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
@@ -52,6 +56,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE&&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
+](#n)
 
 ## <img alt=estatistics-icon src=https://user-images.githubusercontent.com/60708311/189716182-1b7c7374-9f97-405d-9f41-65252fae15ef.svg width=17/> -  Minha atividade
 ![Maicon15rp github activity graph](https://activity-graph.herokuapp.com/graph?username=maicon15rp&theme=github-dark)
