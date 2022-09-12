@@ -59,7 +59,12 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 ](#n)
 
 ## <img alt=estatistics-icon src=https://user-images.githubusercontent.com/60708311/189716182-1b7c7374-9f97-405d-9f41-65252fae15ef.svg width=17/> -  Minha atividade
-![Maicon15rp github activity graph](https://activity-graph.herokuapp.com/graph?username=maicon15rp&theme=github-dark&hide_title=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=maicon15rp&theme=github-dark&hide_title=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=maicon15rp&theme=minimal&hide_title=true">
+  <img alt="Maicon15rp github activity graph" src="https://activity-graph.herokuapp.com/graph?username=maicon15rp&theme=github-dark&hide_title=true">
+</picture>
 
 ## <img alt=document-icon src=https://user-images.githubusercontent.com/60708311/189718825-c91e4b9c-58b7-4c32-91b9-476f5202a9a5.svg width=17/> -  Meus Projetos
 #### :computer: [Music and Lyric Automatic Download](https://github.com/maicon15rp/Music-Lyric-Download)
