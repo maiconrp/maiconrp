@@ -6,7 +6,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 
 <img alt=check-icon src=https://user-images.githubusercontent.com/60708311/189709768-363c04e2-a826-4f75-b9e2-cc82251bc75e.svg width=10/> - **Projetos web fullstack**
 
-<img alt=check-icon src=https://user-images.githubusercontent.com/60708311/189709768-363c04e2-a826-4f75-b9e2-cc82251bc75e.svg width=10/> - **Aplicações Web com Python
+<img alt=check-icon src=https://user-images.githubusercontent.com/60708311/189709768-363c04e2-a826-4f75-b9e2-cc82251bc75e.svg width=10/> - **Aplicações Web com Python**
 
 <img alt=check-icon src=https://user-images.githubusercontent.com/60708311/189709768-363c04e2-a826-4f75-b9e2-cc82251bc75e.svg width=10/> - **Projetos de Estudo**
 
