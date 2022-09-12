@@ -3,18 +3,24 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 
 ## 🗂️ O que você verá por aqui🗂️
 
-👩‍💻 Projetos web fullstack &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥️ Aplicações Web com Python: Django e Flet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📚 Projetos de Estudo pessoal
+👩‍💻 Projetos web fullstack
 
-📑️ Projetos Escolares &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥️ Códigos aleatórios
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻 Projetos Frontend
+🖥️ Aplicações Web com Python: Django e Flet 
+
+📚 Projetos de Estudo pessoal
+
+📑️ Projetos Escolares 
+
+🖥️ Códigos aleatórios
+
+👩‍💻 Projetos Frontend
 
 ## 🎯 Metas
 📌 Me tornar um Desenvolvedor Web
 
 📌 Ensinar Programação
 
-📌 Desenvolver sonhos, não sites
+📌 Criar um site para a igreja
 
 ## 📚🦾 Tecnologias que estou estudando no momento 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -60,11 +66,11 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 
 ## :memo: Projetos que pretendo Desenvolver 
 #### Site de Relatórios para igrejas
-> Atualmente são feitos mais de 10 relatórios mensais em uma igreja, na qual todos são feitos no papel. Unificá-los em uma plataforma online não só traria organização, como também mais velocidade, poupando tempo e permitiria uma análise dos dados mais eficiente<br>
+> Atualmente existem mais de 10 tipos de relatórios mensais em uma igreja, na qual todos são feitos no papel. Unificá-los em uma plataforma online não só traria organização, como também mais velocidade, poupando tempo, além de permitir uma análise  mais eficiente dos dados<br>
 **Possiveis ferramentas:** `python3` `django` `html5` `css3` `javascript` `bootstrap` `sass` `sqlite`
 
 #### Guia do Campus
-> Todo ano o Instituto Federal Baiano recebe alunos novos, entretanto, não há nenhumtipo de guia eficiente para os novos alunos, sendo assim, estes ficam pertidos em relação à salas, plataformas, horários e funcionamento do campus. Este projeto viria com o intuito de sanar isso<br>
+> Todo ano o Instituto Federal Baiano recebe alunos novos, entretanto, não há nenhum tipo de guia eficiente para os mesmos, sendo assim, estes ficam pertidos em relação à salas, plataformas, horários e funcionamento do campus. Este projeto viria com o intuito de sanar tal problema<br>
 **Possiveis ferramentas:** `python3` `django` `html5` `css3` `javascript` `bootstrap` `sass` `sqlite`
 
 ## 🔎 Onde me encontrar
