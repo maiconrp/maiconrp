@@ -45,8 +45,10 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=red&color=red)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=gray&color=gray)
+![Libre Office](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE&labelColor=white&color=white)
+![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
 
 ## ⏳💹 Minha atividade
 ![Maicon15rp github activity graph](https://activity-graph.herokuapp.com/graph?username=maicon15rp&theme=github-dark)
