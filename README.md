@@ -1,6 +1,6 @@
 ## <img src=https://user-images.githubusercontent.com/60708311/189707560-b11db742-6ec6-4c17-b0b4-f2ecdd66c382.svg width=17/> - Quem sou eu
 
-Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente tenho 17 anos e estou cursando Informática para Internet no [Instituto Federal Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo Design, Música e Automação. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘
+Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente tenho 17 anos e estou cursando **Informática para Internet** no [**Instituto Federal Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo **Design**, **Música** e **Automação**. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘
 
 ## <img src=https://user-images.githubusercontent.com/60708311/189708234-43f05dd3-3555-4aa8-8d50-7e2ae5fcf947.svg width=17/> - O que você verá nesse perfil
 
