@@ -1,8 +1,10 @@
 ## <img src=https://user-images.githubusercontent.com/60708311/189707560-b11db742-6ec6-4c17-b0b4-f2ecdd66c382.svg width=17/> - Quem sou eu
 
-Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente tenho 17 anos e estou cursando **Informática para Internet** no [**Instituto Federal Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo **Design**, **Música** e **Automação**. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘
+Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://github.com/maicon15rp). Atualmente tenho 17 anos e estou cursando **Informática para Internet** no [**Instituto Federal Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo **Design**, **Música** e **Automação**. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘
 
-## <img src=https://user-images.githubusercontent.com/60708311/189708234-43f05dd3-3555-4aa8-8d50-7e2ae5fcf947.svg width=17/> - O que você verá nesse perfil
+<hr>
+
+## <img src=https://user-images.githubusercontent.com/60708311/189708234-43f05dd3-3555-4aa8-8d50-7e2ae5fcf947.svg width=17/> - O que há no meu perfil
 
 <img alt=check-icon src=https://user-images.githubusercontent.com/60708311/189709768-363c04e2-a826-4f75-b9e2-cc82251bc75e.svg width=10/> - **Projetos web fullstack**
 
@@ -25,7 +27,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 <img alt=sparkles-icon src=https://user-images.githubusercontent.com/60708311/189714076-4ace66df-e95b-4eae-a380-75448f842123.svg width=12/> - Criar um site para a igreja
 
 ## <img alt=book-icon src=https://user-images.githubusercontent.com/60708311/189717216-5675e804-ffa7-47d3-bad4-3ca26eb06f4e.svg width=17/> - Tecnologias que estou estudando
-[
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
@@ -33,7 +35,8 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é **Maicon Robert**. Atualmente 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
-](#n)
+<hr>
+
 ## <img alt=bookmark-icon src=https://user-images.githubusercontent.com/60708311/189718010-4971f595-f74c-40b3-a266-bdbf643b3fd5.svg width=17/> - Tecnologias que já estudei
 
 [
