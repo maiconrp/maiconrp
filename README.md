@@ -2,6 +2,8 @@
 
 Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://github.com/maicon15rp). Atualmente tenho 17 anos e estou cursando **Informática para Internet** no [**Instituto Federal Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo **Design**, **Música** e **Automação**. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘
 
+
+<img alt=job-icon src=uicons/job-search.png width=19/> **- Procurando Estágio**
 <hr>
 
 ## <img src=uicons/bank-free-icon-font.svg width=17/> - O que há no meu perfil
@@ -27,6 +29,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://gi
 <img alt=sparkles-icon src=uicons/sparkles-free-icon-font.svg width=12/> - Criar um site para a igreja
 
 ## <img alt=book-icon src=uicons/book-alt-free-icon-font.svg width=17/> - Tecnologias que estou estudando
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
@@ -99,6 +102,8 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://gi
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](http://discordapp.com/users/670372491771904012)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](#-onde-me-encontrar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](#-onde-me-encontrar)
+
+<a href="https://www.flaticon.com" title="Flaticon" font-size=10px>Icons by Freepik - Flaticon</a>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicon15rp&theme=dark)
