@@ -63,7 +63,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://gi
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE&&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ](#n)
-
+<!--
 ## <img alt=estatistics-icon src=uicons/fonte-de-icone-de-stats-gratis.svg width=17/> -  Minha atividade
 
 <picture>
@@ -71,7 +71,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://gi
   <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=maicon15rp&theme=minimal&hide_title=true">
   <img alt="Maicon15rp github activity graph" src="https://activity-graph.herokuapp.com/graph?username=maicon15rp&theme=github-dark&hide_title=true"/>
 </picture>
-
+-->
 ## <img alt=document-icon src=uicons/document-free-icon-font.svg width=17/> -  Meus Projetos
 
 #### :computer: [Music and Lyric Automatic Download](https://github.com/maicon15rp/Music-Lyric-Download)
