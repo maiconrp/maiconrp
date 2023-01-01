@@ -1,6 +1,6 @@
 ## <img src=uicons/fonte-de-icone-de-user-gratis.svg width=17/> - Quem sou eu
 
-Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://github.com/maicon15rp). Atualmente tenho 17 anos e estou cursando **Informática para Internet** no [**Instituto Federal Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo **Design**, **Música** e **Automação**. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘
+Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://github.com/maiconrp). Atualmente tenho 17 anos e estou cursando **Informática para Internet** no [**Instituto Federal Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo **Design**, **Música** e **Automação**. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘
 
 
 <img alt=job-icon src=uicons/job-search.png width=19/> **- Procurando Estágio**
@@ -74,7 +74,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://gi
 -->
 ## <img alt=document-icon src=uicons/document-free-icon-font.svg width=17/> -  Meus Projetos
 
-#### :computer: [Music and Lyric Automatic Download](https://github.com/maicon15rp/Music-Lyric-Download)
+#### :computer: [Music and Lyric Automatic Download](https://github.com/maiconrp/Music-Lyric-Download)
 > Uma ferramenta em python para download de músicas de forma automatizada. <br>
 > `audio` `python` `music` `api` `json` `automation` `video` `ffmpeg` `lyrics` `lib` `requests` `flac`
 
@@ -82,7 +82,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://gi
 > Plataforma de compartilhamento e avaliação de redações. <br>
 > `fullstack` `python` `django` `html5` `css3` `javascript` `bootstrap` `sass` `text` `share`
 
-#### 🦾 [Desafio 21 Dias](https://github.com/maicon15rp/Desafio-21-Dias)
+#### 🦾 [Desafio 21 Dias](https://github.com/maiconrp/Desafio-21-Dias)
 > Uma série de desafios diários de programação, envolvendo html5, css3, javascript, python... <br>
 > `fullstack` `python` `html5` `css3` `javascript`
 
@@ -103,9 +103,10 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://gi
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](#-onde-me-encontrar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](#-onde-me-encontrar)
 
-<a href="https://www.flaticon.com" title="Flaticon" font-size=10px>Icons by Freepik - Flaticon</a>
+
 
 <!--
+<a href="https://www.flaticon.com" title="Flaticon" font-size=10px>Icons by Freepik - Flaticon</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicon15rp&theme=dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maicon15rp&repo=music-lyric-download)](https://github.com/maicon15rp/maicon15rp)
