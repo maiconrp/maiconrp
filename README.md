@@ -98,7 +98,7 @@ Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://gi
 ##  <img alt=search-icon src=uicons/search-free-icon-font.svg width=17/> - Onde me encontrar
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](mailto:maiconlk2321@gmail.com)
-[![Instagram](https://img.shields.io/badge/maiconroberp-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](https://www.instagram.com/maiconrobertp/)
+[![Instagram](https://img.shields.io/badge/maiconrobertp-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](https://www.instagram.com/maiconrobertp/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](http://discordapp.com/users/670372491771904012)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](#-onde-me-encontrar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](#-onde-me-encontrar)
