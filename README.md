@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/60708311/212561683-07a6167b-988d-43a3-9d5f-1781f897b30e.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="pc-logo-maiconrp">
 
-## <img src=uicons/fonte-de-icone-de-user-gratis.svg width=17/> - Quem sou eu
+## <img src=uicons/fonte-de-icone-de-user-gratis.svg width=17/> - Bem vindo(a)
 
-Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://github.com/maiconrp). Atualmente tenho 17 anos e estou cursando **Informática para Internet** no [**IF Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo **Design**, **Música** e **Automação**. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘 e almejo me tornar um dev web, ensinar programação e desenvolver um site para a igreja <img alt=rocket-icon src=uicons/rocket-lunch-free-icon-font.svg width=14/>
+Oooooopa! Meu nome é [**Maicon Robert**](https://github.com/maiconrp), tenho 17 anos e curso **Informática para Internet** no [**IF Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo **Design**, **Música** e **Automação**. Sou apaixonado por inovação, pão de queijo, café☕ e Ela💘. Almejo ser um dev web, ensinar programação e desenvolver um site para a igreja <img alt=rocket-icon src=uicons/rocket-lunch-free-icon-font.svg width=14/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](mailto:maiconlk2321@gmail.com)
 [![Instagram](https://img.shields.io/badge/maiconrobertp-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](https://www.instagram.com/maiconrobertp/)
