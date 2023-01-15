@@ -3,30 +3,26 @@
 Oooooopa! Bem vindo(a) ao meu perfil. Meu nome é [**Maicon Robert**](https://github.com/maiconrp). Atualmente tenho 17 anos e estou cursando **Informática para Internet** no [**Instituto Federal Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso, estudo **Design**, **Música** e **Automação**. Sou apaixonado por inovação, tecnologia, pão de queijo, café☕ e Ela💘
 
 
-<img alt=job-icon src=uicons/job-search.png width=19/> **- Procurando Estágio**
+<img alt=job-icon src=uicons/job-search.png width=19/> **- `Procurando Estágio`**
 <hr>
 
 ## <img src=uicons/bank-free-icon-font.svg width=17/> - O que há no meu perfil
 
-<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> - **Projetos web fullstack**
-
-<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> - **Aplicações Web com Python**
-
-<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> - **Projetos de Estudo**
-
-<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> - **Trabalhos Escolares**
-
-<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> - **Códigos aleatórios**
-
-<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> - **Projetos Frontend**
+<div align=justify word-spacing=6em>
+ 
+<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> **`Projetos web fullstack`**
+<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> **`Aplicações Web com Python`**
+<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> **`Projetos de Estudo`**
+<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> **`Trabalhos Escolares`**
+<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> **`Códigos aleatórios`**
+<img alt=check-icon src=uicons/check-free-icon-font.svg width=10/> **`Projetos Frontend`**
+</div>
 
 ## <img alt=rocket-icon src=uicons/rocket-lunch-free-icon-font.svg width=17/> - Metas
 
-<img alt=sparkles-icon src=uicons/sparkles-free-icon-font.svg width=12/> - Me tornar um Desenvolvedor Web
-
-<img alt=sparkles-icon src=uicons/sparkles-free-icon-font.svg width=12/> - Ensinar Programação
-
-<img alt=sparkles-icon src=uicons/sparkles-free-icon-font.svg width=12/> - Criar um site para a igreja
+<img alt=sparkles-icon src=uicons/sparkles-free-icon-font.svg width=12/> **`Me tornar um Desenvolvedor Web`**
+<img alt=sparkles-icon src=uicons/sparkles-free-icon-font.svg width=12/> **`Ensinar Programação`**
+<img alt=sparkles-icon src=uicons/sparkles-free-icon-font.svg width=12/> **`Criar um site para a igreja`**
 
 ## <img alt=book-icon src=uicons/book-alt-free-icon-font.svg width=17/> - Tecnologias que estou estudando
 
