@@ -34,7 +34,6 @@ Oooooopa! Meu nome é [**Maicon Robert**](https://github.com/maiconrp), tenho 17
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Python 3](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1F6FEB&color=1F6FEB)
 
 
